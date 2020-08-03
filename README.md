@@ -1,2 +1,2 @@
-# Face-Recognition-Function
-Face Recognition Function - Python/OpenCV
+# Face-Recognition
+Face Recognition - Python/OpenCV
