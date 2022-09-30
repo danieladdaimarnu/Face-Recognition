@@ -4,7 +4,7 @@ opencv-python==3.4.2.17
 scipy==1.4.1
 keras==2.2.4
 scikit-image==0.15.0
-joblib==0.14.1
+joblib==1.2.0
 tensorflow==1.14.0
 scikit-learn==0.21.3 
 git+https://github.com/fizyr/keras-retinanet
